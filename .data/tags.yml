@@ -1,0 +1,12 @@
+jekyll :
+  name: jekyll
+  description: False
+  cover: assets/himal.jpg
+python :
+  name: Python
+  description: False
+  cover: assets/himal.jpg
+economy :
+  name: Java
+  description: False
+  cover: assets/himal.jpg

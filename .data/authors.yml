@@ -1,0 +1,11 @@
+ajay8808 :
+  username: ajay8808    # user name : martin
+  name: ajay8808       # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: <a href="https://github.com">github</a>
+                        # 회사정보
+  picture: assets/himallogo.jpg   # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False
