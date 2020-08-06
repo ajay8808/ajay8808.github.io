@@ -1,18 +1,27 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/aboutimg.jpg "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
-
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+<div > <h1 style="text-align:center">Seunghee Kim</h1> <div>
+	<h4>경력사항</h4>
+	<p> 2019.12~2020.07 쌍용교육센터 Python & Java를 활용한 AI 텍스트 마이닝 개발자 양성과정 </p>
+	<p>2016.10~2019.06 동일방직 직물팀 사원 근무 </p>
+	
+	<h4>프로젝트</h4>
+	<ul class="post">
+    <li>
+      <strong>
+ [Spring 웹 프로젝트(personal)]:
+		<a href=" https://github.com/ajay8808/daiso" title="">https://github.com/ajay8808/daiso</a>
+			</strong>
+    </li>  
+		<li> <strong>
+			[Spring 웹 프로젝트(team)]:
+		<a href="https://github.com/ajay8808/kingsman" title="">https://github.com/ajay8808/kingsman</a> 	</strong>
+		</li>
+  </ul>
